@@ -9,6 +9,7 @@ Steps to run:
 - npm init (remove the URL-related additions)
 - npm install
 - npm run dev
+- git add . && git commit -m "C" && git push origin ts_js
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
