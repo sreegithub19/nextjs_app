@@ -1,0 +1,9 @@
+{
+  "builds": [{ "src": "pages/api/*.py", "use": "@vercel/python" }],
+  "routes": [
+    {
+      "src": "/api/python_applications",
+      "dest": "/pages/api/"
+    }
+  ]
+}
