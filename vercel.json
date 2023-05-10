@@ -7,10 +7,6 @@
     {
       "src": "/hello",
       "dest": "/api/hello.js"
-    },
-    {
-      "src": "/index/(.*)",
-      "dest": "/api/index.py"
     }
   ]
 }
