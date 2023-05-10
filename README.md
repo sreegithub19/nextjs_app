@@ -55,6 +55,9 @@ URLs:-
 - https://nextjs-sreegithub19.vercel.app
 - https://nextjs-sreegithub19.vercel.app/api/hello
 
+- Golang:
+-   https://nextjs-five-sigma-16.vercel.app/api/applications
+
 Git:-
 
 - git add . && git commit -m "c" && git push origin main && yarn deploy
