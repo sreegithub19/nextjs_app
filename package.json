@@ -16,5 +16,13 @@
   "devDependencies": {
     "eslint": "8.23.0",
     "eslint-config-next": "12.3.0"
-  }
+  },
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/sreegithub19/nextjs_app.git",
+  "author": "<sreedhar.k@rakuten.com>",
+  "license": "MIT"
 }

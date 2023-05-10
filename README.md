@@ -57,4 +57,8 @@ URLs:
 
 Git:
 
-- git add . && git commit -m "c" && git push origin main
+- git add . && git commit -m "c" && git push origin main && yarn deploy
+
+Deploy:
+
+- yarn init -y
