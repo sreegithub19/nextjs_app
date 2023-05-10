@@ -3,6 +3,10 @@
     {
       "src": "/api/(.*)",
       "dest": "/api/python_app.py"
+    },
+    {
+      "source": "/api/go/(.*)",
+      "destination": "/api/entrypoint.go"
     }
   ]
 }
