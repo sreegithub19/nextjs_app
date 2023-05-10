@@ -1,8 +1,0 @@
-{
-  "routes": [
-    {
-      "src": "/api/go/(.*)",
-      "dest": "/api/entrypoint.go"
-    }
-  ]
-}
