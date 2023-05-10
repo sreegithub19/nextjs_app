@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "vercel deploy --prod"
   },
   "dependencies": {
     "next": "12.3.0",
@@ -16,10 +17,6 @@
   "devDependencies": {
     "eslint": "8.23.0",
     "eslint-config-next": "12.3.0"
-  },
-  "scripts": {
-    "start": "vercel dev",
-    "deploy": "vercel deploy --prod"
   },
   "main": "index.js",
   "repository": "https://github.com/sreegithub19/nextjs_app.git",
