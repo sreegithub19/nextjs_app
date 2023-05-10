@@ -48,7 +48,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Demo:
 
-Part 1:
+Part 1:-
 https://user-images.githubusercontent.com/55496113/222213291-4996342f-5a55-4263-802d-38e2719a6aab.mp4
 
 Part 2:
