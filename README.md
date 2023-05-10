@@ -46,7 +46,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
 Demo:
 
 Part 1:
@@ -55,3 +54,6 @@ https://user-images.githubusercontent.com/55496113/222213291-4996342f-5a55-4263-
 Part 2:
 https://user-images.githubusercontent.com/55496113/222213309-0073403f-78ad-4acf-b66a-64659570b89a.mp4
 
+All in one command:
+
+- git add . && git commit -m "C" && git push origin ts_js && yarn deploy
