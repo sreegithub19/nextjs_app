@@ -45,14 +45,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
 Demo:
 
 https://user-images.githubusercontent.com/55496113/222212597-f4025ba5-d077-4895-bc87-539931582f7a.mp4
 
-
 URLs:
+
 - https://nextjs-sreegithub19.vercel.app/index
 - https://nextjs-sreegithub19.vercel.app
 - https://nextjs-sreegithub19.vercel.app/api/hello
 
+Git:
+
+- git add . && git commit -m "c" && git push origin main
