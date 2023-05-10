@@ -5,8 +5,8 @@
       "dest": "/api/python_app.py"
     },
     {
-      "source": "/api/go/(.*)",
-      "destination": "/api/entrypoint.go"
+      "src": "/api/go/(.*)",
+      "dest": "/api/entrypoint.go"
     }
   ]
 }
