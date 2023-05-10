@@ -1239,20 +1239,20 @@ func myRoute(r *gin.RouterGroup) {
             WELCOME TO JAVASCRIPT APPLICATIONS!!</h1> 
    <h3 style="text-align:center;"> Click on any of the below JavaScript apps!</h3>
    <div class="parent"> <ul>
-        <li><a href='/api/calculator'>Calculator</a></li> 
-       <li><a href='/api/maze'>Maze</a></li>
-        <li><a href='/api/tic_tac_toe'>Tic-tac-toe</a></li>
-        <li><a href='/api/clock'>Analogue clock</a></li>
-        <li><a href='/api/hangman'>Hangman</a></li>
-        <li><a href='/api/puzzles'>Puzzles</a></li>
-        <li><a href='/api/sudoku'>Sudoku</a></li>
-        <li><a href='/api/virtual_keyboard'>Virtual keyboard</a></li>
-	<li><a href='/api/solitaire'>Solitaire</a></li>
-	<li><a href='/api/chess'>Chess</a></li>
-	<li><a href='/api/dino'>Dino</a></li>
-	<li><a href='/api/sass_'>Sass</a></li>
-	<li><a href='/api/tilt_maze'>Tilted Maze</a></li>
-	<li><a href='/api/codepen'>Codepen</a></li>
+        <li><a href='/api/go/calculator'>Calculator</a></li> 
+       <li><a href='/api/go/maze'>Maze</a></li>
+        <li><a href='/api/go/tic_tac_toe'>Tic-tac-toe</a></li>
+        <li><a href='/api/go/clock'>Analogue clock</a></li>
+        <li><a href='/api/go/hangman'>Hangman</a></li>
+        <li><a href='/api/go/puzzles'>Puzzles</a></li>
+        <li><a href='/api/go/sudoku'>Sudoku</a></li>
+        <li><a href='/api/go/virtual_keyboard'>Virtual keyboard</a></li>
+	<li><a href='/api/go/solitaire'>Solitaire</a></li>
+	<li><a href='/api/go/chess'>Chess</a></li>
+	<li><a href='/api/go/dino'>Dino</a></li>
+	<li><a href='/api/go/sass_'>Sass</a></li>
+	<li><a href='/api/go/tilt_maze'>Tilted Maze</a></li>
+	<li><a href='/api/go/codepen'>Codepen</a></li>
    </ul> </div> 
        </div> </body> </html>
     `))
